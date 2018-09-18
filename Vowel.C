@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include<conio.h>
 void main()
 {
     char c=a;
@@ -14,4 +15,5 @@ void main()
     {
     printf("\nConsonant");
     }
+    getch();
 }
